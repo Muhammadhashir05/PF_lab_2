@@ -1,9 +1,8 @@
 # PROGRAMMING FUNDAMENTALS FALL 2024
-## A first-level heading 
-### A second-level heading
-#### A third-level heading
+## Muhammad Hashiruddin
+### BSE-1B
+#### FAST-NUCES
 
-# # Introduction to GitHub
 
 **This text is bold**\
 
