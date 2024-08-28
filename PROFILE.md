@@ -5,7 +5,7 @@
 #### FAST-NUCES
 
 
-**Introduction to Github*\
-*How are you?*\
- ***This text is both bold and italics***\ 
+**Introduction to Github*
+***Creating repositories***
+
 ~~OOPS I made an error~~
