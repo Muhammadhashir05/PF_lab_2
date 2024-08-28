@@ -3,7 +3,9 @@
 ### ***Muhammad Hashiruddin***
 #### I am currently pursuing BS(software engineering) at NUCES,FAST.
    *BSE-1B*
+   
    *24K-3039
+   
    *I am in 1<sup>st</sup> semester.
-   <br>
+
 ~~This is my second repository~~
