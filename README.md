@@ -9,5 +9,5 @@
 
 I am in 1<sup>st</sup> semester
 > ## LET'S GET STARTED
-[]Make sure you have an account on Github
-[x]Enjoy the experience
+- [] Make sure you have an account on Github
+- [x] Enjoy the experience
