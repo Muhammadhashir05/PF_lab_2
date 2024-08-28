@@ -4,6 +4,7 @@
 ## PF_lab_2
 ### **Lecture**
 **Introduction to Github*
+<br>
 ***Creating repositories***
 > ## LET'S GET STARTED
 - [x] Make sure you have an account on Github
