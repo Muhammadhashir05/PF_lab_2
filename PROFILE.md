@@ -2,7 +2,7 @@
 # PROGRAMMING FUNDAMENTALS FALL 2024
 
 ## PF_lab_2
-### **Lecture**
+### **Lecture:**
 **Introduction to Github*
 <br>
 ***Creating repositories***
