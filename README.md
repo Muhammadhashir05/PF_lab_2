@@ -8,4 +8,4 @@
 ~~This is my second repository~~
 
 I am in 1<sup>st</sup> semester
-## > LET'S GET STARTED
+> LET'S GET STARTED
