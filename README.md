@@ -9,3 +9,5 @@
    I am in 1<sup>st</sup> semester
 
  ~~This is my second repository~~
+
+ ! [Developer starting his journey on Github.](https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?size=626&ext=jpg)
