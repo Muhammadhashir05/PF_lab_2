@@ -10,5 +10,5 @@
 
  ~~This is my second repository~~
 # PF_LAB 03 🏷️
-## INTRODUCTION TO C LANGUAGE :laptop:
+## INTRODUCTION TO C LANGUAGE 💻
  ![Developer starting his journey on Github](https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?size=626&ext=jpg)
